@@ -6,9 +6,9 @@ Olá Galera!!!
 
 Meu nome é **Danilo**, tenho **25 anos**, moro com a minha esposa e filha na região da Zona Sul de **São Paulo**.
 
-Não possuo experiência na área de Desenvolvimento, mas estou me empenhado nos cursos da plataforma da **DIO** para obter experiência.
+Não possuo experiência na área de Desenvolvimento, mas estou me empenhado nos cursos da plataforma da **DIO** para obter conhecimento.
 
-Agradeço a equipe da DIO pelo o empenho de ajudar milhares de pessoas! :books:
+Agradeço a equipe da DIO pelo o empenho em ajudar milhares de pessoas! :books:
 
 :balloon:
 
